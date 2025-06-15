@@ -41,7 +41,7 @@ Aplicacao consistente na UI com SwiftUI.
 - Animacao da Pokebola na tela de login.
 - Modo offline para Pokemons favoritos.
 - Tema visual baseado no universo Pokemon.
-- 
+
 # Bibliotecas de Terceiros Utilizadas
 Bibliotecas:
 - SwiftUI
