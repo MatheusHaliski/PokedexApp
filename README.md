@@ -1,5 +1,5 @@
 # PokedexApp
-Repositório para o projeto de IOS - App Pokedex. Nomes: Matheus Braschi Haliski, Stephanny Almeida.
+Repositório para o projeto de IOS - App Pokedex. Nomes: Matheus Braschi Haliski, Stephanny Almeida, Bryan Strey.
 LINK PARA VIDEO NO YOUTUBE: https://youtu.be/vq2O9zFgFLw
 
 # Descritivo Tecnico do Aplicativo iOS Pokedex
